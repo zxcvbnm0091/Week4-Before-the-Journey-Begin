@@ -6,7 +6,7 @@ Sebelum itu, Repo ini adalah gerbang utama sebelum kalian Live Code di RPN.
 
 ## Apa yang akan Anda pelajari?
 
-### Rekursi dalam Pemrograman dan Git Branch
+### Rekursi dalam Pemrograman, Git Branch dan Regex
 
 1. **Dasar-dasar Rekursi**
    - Apa itu rekursi?
@@ -17,6 +17,10 @@ Sebelum itu, Repo ini adalah gerbang utama sebelum kalian Live Code di RPN.
    - Apa itu branch?
    - Membuat, menghapus, dan berpindah branch
    - Menggabungkan (merge) branch
+
+3. **Dasar-dasar Regex (Regular Expressions)**
+   - Apa itu regex?
+   - Cara menggunakan regex
 
 ## Cara Menggunakan Repo Ini
 
