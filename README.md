@@ -34,10 +34,26 @@ Sebelum itu, Repo ini adalah gerbang utama sebelum kalian Live Code di RPN.
 - [Regex](https://github.com/RPN-Phase-0/Week4-Before-the-Journey-Begin/blob/main/study-materials/part3.md)
 
 ## Week 4 Logic Nolep (Quiz)
-- [Part1](https://github.com/RPN-Phase-0/Week3-Object-is-a-key/tree/main/quiz/part1)
-- [Part2](https://github.com/RPN-Phase-0/Week3-Object-is-a-key/tree/main/quiz/part2)
-- [Part3](https://github.com/RPN-Phase-0/Week3-Object-is-a-key/tree/main/quiz/part3)
-- [Ujian Week3](https://github.com/RPN-Phase-0/Week3-Object-is-a-key/tree/main/quiz/ujian)
+- [Part1](https://github.com/RPN-Phase-0/Week4-Before-the-Journey-Begin/tree/main/quiz/part1)
+- [Part2](https://github.com/RPN-Phase-0/Week4-Before-the-Journey-Begin/tree/main/quiz/part2)
+- [Part3](https://github.com/RPN-Phase-0/Week4-Before-the-Journey-Begin/tree/main/quiz/part3)
+- [Ujian Akhir (LiveCode)](https://github.com/RPN-Phase-0/Week4-Before-the-Journey-Begin/tree/main/quiz/ujian)
+
+## Ujian Akhir Phase-0
+
+Eits sebelum kalian final live code dan lulus phase 0
+kalian diwajibkan memiliki akun codewars dan akun tersebut sudah berlevel kyu 6
+
+https://www.codewars.com/dashboard
+
+lalu bila sudah mencapai kyu 6 harus ngapain?
+
+- SS bukti kalian sudah mencapai kyu 6 dan simpan SS kalian di folder ini
+- berkabar ke sepuh nolep (admin) di [Discord RPN](https://discord.gg/ufbRBRTKN8)
+
+nanti kita akan tentuin waktu yang nyaman
+
+Good Luck
 
 ## Dukung Kami
 
