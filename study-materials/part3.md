@@ -26,7 +26,6 @@ $ // - Mencocokan ujung dari sebuah string.
 ^ // - Mencocokan awal dari sebuah string.
 [^a-z] // - Ketika didalam sebuah class karakter, tanda ^ artinya NOT; dalam kasus ini, regex akan mencocokan apapun yang bukan karakter lowercase.
 ```
-***BTW GUA GA HAFAL2 SAMPE SKRG WKWKWK***
 
 ***Penggunaan Regular Expressions dalam JavaScript***
 **Menulis Regex**
