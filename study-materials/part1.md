@@ -1,4 +1,4 @@
-# Rekursi
+# Recursive
 
 Kita bisa membuat function yang memanggil dirinya sendiri, disebut recursion. Memungkinkan kita untuk menulis fungsi dengan ekspektasi hasil yang sama namun cara/gayanya berbeda. Ini akan berhubungan nanti tentang bagaimana kita menstrukturkan langkah logika kita, atau algorithm.
 
@@ -59,4 +59,4 @@ exponent 0 menyentuh if sehingga dikali 1 (lihat return apa pada if)
 
 ## Other Source
 
-[Rekursion Explained YT Video](https://youtu.be/LteNqj4DFD8?si=Tc6iEO0zPf_X9Exk )
+[Recursion Explained YT Video](https://youtu.be/LteNqj4DFD8?si=Tc6iEO0zPf_X9Exk )
