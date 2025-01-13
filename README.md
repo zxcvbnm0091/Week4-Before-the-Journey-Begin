@@ -33,3 +33,5 @@ Sebelum itu, Repo ini adalah gerbang utama sebelum kalian Live Code di RPN.
 Jika Anda menemukan repo ini bermanfaat, jangan lupa untuk memberikan bintang ⭐ di bagian atas halaman. Dukung kami dengan cara share ke teman-teman kalian.
 
 Selamat belajar dan selamat menjelajahi dunia rekursi dan Git branch! 🚀
+
+[Discord RPN](https://discord.gg/ufbRBRTKN8)
