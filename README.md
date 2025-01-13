@@ -28,10 +28,22 @@ Sebelum itu, Repo ini adalah gerbang utama sebelum kalian Live Code di RPN.
 2. **Coba tulis kode Anda sendiri!** Setiap bagian menyertakan latihan praktis yang bisa Anda coba untuk menguji pemahaman Anda.
 3. **Bergabunglah dengan komunitas.** Jangan ragu untuk bertanya atau berdiskusi dengan sesama pemula di bagian issues atau melalui pull requests.
 
+## Week 4 Study Materials
+- [Recursive](https://github.com/RPN-Phase-0/Week4-Before-the-Journey-Begin/blob/main/study-materials/part1.md)
+- [Git Branch](https://github.com/RPN-Phase-0/Week4-Before-the-Journey-Begin/blob/main/study-materials/part2.md)
+- [Regex](https://github.com/RPN-Phase-0/Week4-Before-the-Journey-Begin/blob/main/study-materials/part3.md)
+
+## Week 4 Logic Nolep (Quiz)
+- [Part1](https://github.com/RPN-Phase-0/Week3-Object-is-a-key/tree/main/quiz/part1)
+- [Part2](https://github.com/RPN-Phase-0/Week3-Object-is-a-key/tree/main/quiz/part2)
+- [Part3](https://github.com/RPN-Phase-0/Week3-Object-is-a-key/tree/main/quiz/part3)
+- [Ujian Week3](https://github.com/RPN-Phase-0/Week3-Object-is-a-key/tree/main/quiz/ujian)
+
 ## Dukung Kami
 
-Jika Anda menemukan repo ini bermanfaat, jangan lupa untuk memberikan bintang ⭐ di bagian atas halaman. Dukung kami dengan cara share ke teman-teman kalian.
+Jika Kalian menemukan repo ini bermanfaat, jangan lupa untuk memberikan bintang ⭐ di bagian atas halaman. Dukung kami dengan cara sebarkan ke teman-teman kalian, karena materi ini gratis!
 
-Selamat belajar dan selamat menjelajahi dunia rekursi dan Git branch! 🚀
+Selamat belajar dan selamat datang di dunia pemrograman! 🚀
 
 [Discord RPN](https://discord.gg/ufbRBRTKN8)
+
