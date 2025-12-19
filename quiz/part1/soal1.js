@@ -5,6 +5,8 @@ Dengan HANYA mengubah code di dalam 2 function yang diberikan (sorting dan getTo
 */
 function sorting(arrNumber) {
   // code di sini
+
+  // Quick Sort
   let middle = arrNumber[Math.floor(arrNumber.length / 2)];
   let middleGroup = [];
   let left = [];
@@ -25,15 +27,8 @@ function sorting(arrNumber) {
 function getTotal(arrNumber) {
   // code di sini
   const highest = arrNumber[arrNumber.length - 1];
-  let grouped = [];
 
   if (arrNumber.length <= 1) return arrNumber;
-
-  arrNumber.forEach((num) => {
-    let subArr = grouped.find((n) => n === num);
-    if (subArr) subArr.push(num);
-    else grouped.push([num]);
-  });
 
   const modes = arrNumber.filter((num) => num === highest).length;
 
