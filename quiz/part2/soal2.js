@@ -15,7 +15,7 @@ function meleeRangedGrouping(str) {
   //   return arr;
   let groupedHero = {};
   for (let weapon of arr) {
-    let [, hero, category] = weapon.match(/(\w+)-(\w+)/);
+    let [, hero, category] = weapon.match(/(.+)-(.+)/);
     if (!groupedHero[category]) {
       groupedHero[category] = [];
     }
