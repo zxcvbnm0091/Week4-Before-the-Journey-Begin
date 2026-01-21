@@ -14,15 +14,18 @@ Gunakan function removeSpaces untuk menghilangkan semua spasi di dalam string ya
 function changeVocals(str) {
   let newStr = [];
   newStr = str.replace(/[aiueoAIUEO]/g, (letter) =>
-    String.fromCharCode(letter.charCodeAt(0) + 1)
+    String.fromCharCode(letter.charCodeAt(0) + 1),
   );
   return newStr;
 }
 
 function reverseWord(str) {
   //code di sini
-  if (str === "") return "";
-  return reverseWord(str.slice(1)) + str[0];
+  let reverse = "";
+  for (let i = str.length - 1; i >= 0; i--) {
+    reverse += str[i];
+  }
+  return reverse;
 }
 
 function setLowerUpperCase(str) {
@@ -30,7 +33,7 @@ function setLowerUpperCase(str) {
   let newStr = str.replace(/[a-zA-Z]/g, (letter) =>
     letter === letter.toLowerCase()
       ? letter.toUpperCase()
-      : letter.toLowerCase()
+      : letter.toLowerCase(),
   );
   return newStr;
 }
