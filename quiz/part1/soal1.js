@@ -7,17 +7,17 @@ function sorting(arrNumber) {
   // code di sini
 
   // Quick Sort
-  let middle = arrNumber[Math.floor(arrNumber.length / 2)];
+  let pivot = arrNumber[Math.floor(arrNumber.length / 2)];
   let middleGroup = [];
   let left = [];
   let right = [];
 
   if (arrNumber.length <= 1) return arrNumber;
 
-  for (num of arrNumber) {
-    if (num === middle) middleGroup.push(num);
-    if (num > middle) right.push(num);
-    else if (num < middle) left.push(num);
+  for (const num of arrNumber) {
+    if (num === pivot) middleGroup.push(num);
+    else if (num > pivot) right.push(num);
+    else left.push(num);
   }
 
   arrNumber = [...sorting(left), ...middleGroup, ...sorting(right)];
